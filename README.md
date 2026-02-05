@@ -30,4 +30,4 @@ Click ⏹️ Stop when done - time is automatically logged!
 
 📞 Support & Contact
 Email: rmtimer@datasolutions.bz
-Website: http://datasolutions.bz/rmtimer
+Website: https://datasolutions.bz/rmtimer
