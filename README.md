@@ -18,7 +18,7 @@ Click "Show" and copy your key
 
 Configure RM Timer:
 Launch the application
-Go to Settings
+Go to Edit -> Settings
 Enter your Redmine URL (e.g., https://redmine.yourcompany.com)
 Paste your API key
 Click Test Connection
