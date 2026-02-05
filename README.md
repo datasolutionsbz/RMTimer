@@ -27,3 +27,7 @@ Start Tracking:
 Your assigned issues will appear in the main window
 Click the ▶️ Start button next to any issue
 Click ⏹️ Stop when done - time is automatically logged!
+
+📞 Support & Contact
+Email: rmtimer@datasolutions.bz
+Website: http://datasolutions.bz/rmtimer
